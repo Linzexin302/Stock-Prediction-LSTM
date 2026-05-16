@@ -11,8 +11,6 @@ venv/
 env/
 mind_npa/
 
-# Outputs
-Outputs/
 
 # Mac
 .DS_Store
