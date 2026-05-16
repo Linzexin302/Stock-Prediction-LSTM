@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Virtual environments
+.venv/
+venv/
+env/
+mind_npa/
+
+# Outputs
+Outputs/
+
+# Mac
+.DS_Store
